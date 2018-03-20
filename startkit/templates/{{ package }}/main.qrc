@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/">
+    <file>static/img/img.png</file>
+    <file>static/i18n/qt_zh_CN.qm</file>
+  </qresource>
+</RCC>

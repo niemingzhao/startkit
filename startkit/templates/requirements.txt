@@ -1,0 +1,9 @@
+wheel
+twine
+autopep8
+pylint
+
+PyInstaller
+Sphinx
+
+PyQt5
